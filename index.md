@@ -1,91 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Wilcox's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Wilcox
+Product Manager, Librarian.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="dwilcox@duraspace.org">dwilcox@duraspace.org</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2010`
+__Dalhousie University, Halifax, NS.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master of Library and Information Studies
 
-- Sizar
+`2000-2005`
+__St. Thomas University, Fredericton, NB__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Arts, Philosophy
 
 
+## Professional Experience
 
-## Awards
+`2014-Present`
+__Product Manager__, DuraSpace
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Set the long-term vision for the Fedora project
+- Work with project governance to secure funding and in-kind contributions from Fedora stakeholders
+- Perform international outreach to institutions, government organizations, funding agencies, and others
+- Work together with the Fedora Technical Lead to oversee key project processes
+- Maintain project budget
 
 
-## Occupation
+`2012-2014`
+__Program Manager__, Discovery Garden
 
-`1600`
-__Royal Mint__, London
+- Oversaw all projects and set the roadmap for Islandora
+- Allocated resources and ensure delivery of all projects
+- Translated user stories into tasks with testable deliverables
+- Managed two project managers, ten developers, and a subject matter expert, both remotely and in person
+- Delivered training, conference presentations, and demonstrations
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2011-2012`
+__Training and Support Coordinator__, University of Prince Edward Island
 
+- Provided and coordinated end-user support services for the Islandora client community
+- Created and maintained comprehensive technical documentation.
+- Developed training materials and resources
+- Coordinated high-level technical support and development
+
+
+## Career Related Experience
+
+`2018-Present`
+__Program Committee Member__, ILIDE Conference
+
+`2017-2018`
+__Program Committee Member__, Samvera Connect Conference
+
+`2014-2017`
+__Program Committee Member__, Open Repositories Conference
+
+`2012-2013`
+__Program Committee Co-Chair__, Atlantic Provinces Library Association Conference
+
+
+## Publications and Presentations
+
+
+### Journal Publications
+
+Wilcox, D., 2018. Supporting FAIR Data Principles with Fedora. LIBER Quarterly, 28(1), pp.1–8. DOI: http://doi.org/10.18352/lq.10247 
+
+### Conference Publications
+
+
+
+
+### Conference Presentations
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2019 -->
 
 
