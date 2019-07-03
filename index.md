@@ -74,15 +74,41 @@ __Program Committee Co-Chair__, Atlantic Provinces Library Association Conferenc
 
 ### Journal Publications
 
-Wilcox, D., 2018. Supporting FAIR Data Principles with Fedora. LIBER Quarterly, 28(1), pp.1–8. DOI: http://doi.org/10.18352/lq.10247 
+`2018`
+Wilcox, D., Supporting FAIR Data Principles with Fedora. LIBER Quarterly, 28(1), pp.1–8. DOI: http://doi.org/10.18352/lq.10247 
 
 ### Conference Publications
 
 
 
-
 ### Conference Presentations
 
+`2019`
+Wilcox, D., Woods, A. Fedora Project and Community Update. Open Repositories, Hamburg, Germany.
+
+`2019`
+Wilcox, D., Tripp, E. Barriers to Major Upgrades: Assessing Migration Paths. Open Repositories, Hamburg, Germany.
+
+`2019`
+Wilcox, D., Woods, A. Introduction to Fedora 5.0 and the API Specification (workshop). Open Repositories, Hamburg, Germany.
+
+`2019`
+Shearer, K., Rodrigues, E., Holm Nielsen, L., Walk, P., Bollini, A., Wilcox, D. Adopting of NGR Technologies - Status Update. Open Repositories, Hamburg, Germany.
+
+`2019`
+Wilcox, D., Anez, M., Becker, P., Bussey, M., Fyson, W., Holm Nielsen, L., Ruggaber, R. Revenge of the Repository Rodeo. Open Repositories, Hamburg, Germany.
+
+`2019` 
+Wilcox, D. Fedora 6.0 and the Oxford Common File Layout. Samvera Virtual Connect, Online.
+
+`2019`
+Wilcox, D., Metz, R., Pope, E., York, M. The Power of Community: Working Together to Build the Future of Fedora. Coalition for Networked Information (CNI) Spring Meeting, St. Louis, MI, USA.
+
+`2019`
+Wilcox, D. The State of DuraSpace and Fedora. South Central State Fedora User Group Meeting, Austin, TX, USA.
+
+`2019`
+Introduction to Fedora 5.0 and Alternate Implementations (workshop). South Central State Fedora User Group Meeting, Austin, TX, USA.
 
 <!-- ### Footer
 
