@@ -6,7 +6,7 @@ title: David Wilcox's CV
 Product Manager, Librarian.
 
 <div id="webaddress">
-<a href="dwilcox@duraspace.org">dwilcox@duraspace.org</a>
+<a href="david.wilcox@lyrasis.org">david.wilcox@lyrasis.org</a>
 </div>
 
 
@@ -79,6 +79,8 @@ Wilcox, D., Supporting FAIR Data Principles with Fedora. LIBER Quarterly, 28(1),
 
 ### Conference Publications
 
+`2018`
+Wilcox, D., Warner, S., Hankinson, A. The Oxford Common File Layout. iPRES, Boston, MA.
 
 
 ### Conference Presentations
@@ -108,10 +110,70 @@ Wilcox, D., Metz, R., Pope, E., York, M. The Power of Community: Working Togethe
 Wilcox, D. The State of DuraSpace and Fedora. South Central State Fedora User Group Meeting, Austin, TX, USA.
 
 `2019`
-Introduction to Fedora 5.0 and Alternate Implementations (workshop). South Central State Fedora User Group Meeting, Austin, TX, USA.
+Wilcox, D. Introduction to Fedora 5.0 and Alternate Implementations (workshop). South Central State Fedora User Group Meeting, Austin, TX, USA.
+
+`2018`
+Wilcox, D., Mennielli, M. Building Open Source Communities. Open and Linked Information Framework for Education and Research Seminar. Havana, Cuba.
+
+`2018`
+Wilcox, D. Building a Better Repository with Fedora (workshop). Semantic Web in Libraries, Bonn, Germany.
+
+`2018`
+Wilcox, D., Barnes, M. Powering Linked Open Data Applications with Fedora and Islandora CLAW. Semantic Web in Libraries, Bonn, Germany.
+
+`2018`
+Wilcox, D. Introduction to Fedora 5.0 and Alternate Implementations. Samvera Connect, Salt Lake City, UT, USA.
+
+`2018`
+Wilcox, D. Building a Better Fedora: API Specification and Implementations. Samvera Connect, Salt Lake City, UT, USA.
+
+`2018`
+Wilcox, D., Seeger, B. Fedora Update: Current Developments and Future Plans. Digital Library Federation Forum, Las Vegas, NV.
+
+`2018`
+Wilcox, D. The Evolution of Fedora and Digital Preservation. iPRES, Boston, MA.
+
+`2018`
+Wilcox, D. Fedora Forward: Current Developments and Future Plans. Islandora Camp HRM, Halifax, NS, Canada.
+
+`2018`
+Wilcox, D., Bernstein, D. Fedora Project and Community Update. Open Repositories, Bozeman, MO, USA.
+
+`2018`
+Wilcox, D., Bernstein, D. Using and Extending Fedora (workshop). Open Repositories, Bozeman, MO, USA.
+
+`2018`
+Wilcox, D., Walsh, M., Fyson, W., Pope, E., Bussey, M., Jordan, M., Holm Neilsen, L., Brooke, D. Return of the Repository Rodeo. Open Repositories, Bozeman, MO, USA.
+
+`2018`
+Wilcox, D. Supporting Data Storytellers with Fedora (workshop). IASSIST & CARTO, Montreal, QC, Canada.
+
+`2018`
+Wilcox, D. Infrastructure for Research Data Stewardship with Fedora. IASSIST & CARTO, Montreal, QC, Canada.
+
+`2018`
+Wilcox, D. Fedora Update: Current Developments and Future Plans. DC Area Fedora User Group Meeting, College Park, MD, USA.
+
+`2018`
+Wilcox, D. Choosing an IR Platform. Southern Mississippi IR Conference, Hattiesburg, MI, USA.
+
+`2018`
+Wilcox, D., Jeffries, N. Fedora Fourward: Current Developments and Future Plans. ILIDE, Jasna, Slovakia.
+
+`2018`
+Cossu, S., Wilcox, D., Ruggaber, R. Fedora Update: Current Developments and Future Plans. DuraSpace Summit, San Diego, CA, USA.
+
+`2018`
+Wilcox, D., Ruggaber, R. Fedora Update: Current Developments and Future Plans. Coalition for Networked Information Spring Meeting, San Diego, CA, USA.
+
+`2018`
+Wilcox, D. Supporting Research Data Shared Services with Fedora. Göttingen-CODATA RDM Symposium, Göttingen, Germany.
+
+`2018`
+Wilcox, D. Supporting FAIR Data Principles with Fedora (workshop). International Digital Curation Conference, Barcelona, Spain.
 
 <!-- ### Footer
 
-Last updated: April 2019 -->
+Last updated: July 2019 -->
 
 
