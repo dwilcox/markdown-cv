@@ -116,7 +116,7 @@ Wilcox, D. Introduction to Fedora 5.0 and Alternate Implementations (workshop). 
 Wilcox, D., Mennielli, M. Building Open Source Communities. Open and Linked Information Framework for Education and Research Seminar. Havana, Cuba.
 
 `2018`
-Wilcox, D. Building a Better Repository with Fedora (workshop). Semantic Web in Libraries, Bonn, Germany.
+Wilcox, D. Building a Better Repository with Fedora (workshop). Semantic Web in Libraries (SWIB), Bonn, Germany.
 
 `2018`
 Wilcox, D., Barnes, M. Powering Linked Open Data Applications with Fedora and Islandora CLAW. Semantic Web in Libraries, Bonn, Germany.
@@ -171,6 +171,45 @@ Wilcox, D. Supporting Research Data Shared Services with Fedora. Göttingen-CODA
 
 `2018`
 Wilcox, D. Supporting FAIR Data Principles with Fedora (workshop). International Digital Curation Conference, Barcelona, Spain.
+
+`2017`
+Wilcox, D. Managing Assets as Linked Data with Fedora (workshop). Semantic Web in Libraries (SWIB), Hamburg, Germany. 
+
+`2017`
+Wilcox, D., Birkland, A., Pope, E., Weinraub, E. Digital Preservation: The Fedora Community Approach via Standards and Specifications. Coalition for Networked Information (CNI) Fall Meeting, Washington, DC, USA.
+
+`2017`
+Wilcox, D., Woods, A. Extending Fedora: API-X and Import/Export (workshop). Samvera Connect, Evanston, IL, USA.
+
+`2017`
+Wilcox, D. Supporting Digital Preservation and Access with Fedora. Samvera Connect, Evanston, IL, USA.
+
+`2017`
+Wilcox, D., Woods, A. Fedora Project and Community Update. Samvera Connect, Evanston, IL, USA.
+
+`2017`
+Wilcox, D. Managing Assets as Linked Data with Fedora and the Portland Common Data Model (workshop). Digital Library Federation (DLF) Forum, Pittsburg, PA, USA.
+
+`2017`
+Wilcox, D. Part of a Greater Whole: Fedora as a Key Component of a Digital Preservation Strategy. Digital Library Federation (DLF) Forum, Pittsburg, PA, USA.
+
+`2017`
+Wilcox, D. Fedora Project Update.Digital Library Federation (DLF) Forum, Pittsburg, PA, USA.
+
+`2017`
+Wilcox, D. Fedora, Islandora, and Samvera: Requirements and Gaps. Research Data Alliance (RDA) 10th Plenary, Montreal, QC, Canada.
+
+`2017`
+Wilcox, D. Supporting Digital Preservation and Access with Fedora (workshop). iPRES, Kyoto, Japan.
+
+`2017`
+Wilcox, D. Always on the Move: Transient Software and Data Migrations. iPRES, Kyoto, Japan.
+
+`2017`
+Wilcox, D., Woods, A. Managing Assets as Linked Data with Fedora (workshop). VIVO Conference, New York City, NY, USA.
+
+`2017`
+Woods, A., Wilcox, D. Better Together: VIVO and Fedora. VIVO Conference, New York City, NY, USA.
 
 <!-- ### Footer
 
