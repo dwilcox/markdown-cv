@@ -82,6 +82,12 @@ Wilcox, D., Supporting FAIR Data Principles with Fedora. LIBER Quarterly, 28(1),
 `2018`
 Wilcox, D., Warner, S., Hankinson, A. The Oxford Common File Layout. iPRES, Boston, MA.
 
+`2017`
+Wilcox, D., Weinraub, E. Supporting Digital Preservation and Access with Fedora. IFLA WLIC, Wrocław, Poland.
+
+`2017`
+Wilcox, D. Stewarding Research Data with Fedora. IFLA WLIC, Wrocław, Poland.
+
 
 ### Conference Presentations
 
@@ -210,6 +216,54 @@ Wilcox, D., Woods, A. Managing Assets as Linked Data with Fedora (workshop). VIV
 
 `2017`
 Woods, A., Wilcox, D. Better Together: VIVO and Fedora. VIVO Conference, New York City, NY, USA.
+
+`2017`
+Wilcox, D. Fedora Overview. Data Rescue Event, Baltimore, MD, USA.
+
+`2017`
+Wilcox, D., Woods, A. Using and Extending Fedora (workshop). Open Repositories, Brisbane, Australia.
+
+`2017`
+Wilcox, D., Woods, A. Fedora Project and Community Update. Open Repositories, Brisbane, Australia.
+
+`2017`
+Spies, J., Choudhury, S., Johnson, R., Wilcox, D. OSF and Fedora: Removing the Barriers Between Preservation and Active Research. Open Repositories, Brisbane, Australia.
+
+`2017`
+Wilcox, D., Cramer, T., Anez, M., Donohue, T., Fyson, W., Simko, T. Repository Rodeo Redux. Open Repositories, Brisbane, Australia.
+
+`2017`
+Wilcox, D. Automating Digital Curation Workflows with Fedora (workshop). European Library Automation Group (ELAG), Athens, Greece.
+
+`2017`
+Wilcox, D. Fedora 4 Workshop. Islandoracon, Hamilton, Ontario, Canada.
+
+`2017`
+Wilcox, D. Fedora Project Update. Islandoracon, Hamilton, ON, Canada.
+
+`2017`
+Wilcox, D., Cossu, S. Digital Asset Management for Museums with Hydra-in-a-Box. Museums and the Web, Cleveland, OH, USA.
+
+`2017`
+Wilcox, D. Stewarding Research Data with Fedora. ILIDE, Jasna, Slovakia.
+
+`2017`
+Wilcox, D. Collecting and Preserving Digital News with Fedora (workshop). IFLA News Media Satellite Meeting, Reykiavik, Iceland.
+
+`2017`
+Wilcox, D. A Linked Data Approach to Digital Newspapers with Fedora and PCDM. IFLA News Media Satellite Meeting, Reykiavik, Iceland.
+
+`2017`
+Wilcox, D. DuraSpace and Fedora Update. Washington DC Area Fedora User Group Meeting. Washington, DC, USA.
+
+`2017`
+Wilcox, D. Curating Digital Content with Fedora (workshop). International Digital Curation Conference (IDCC), Edinburgh, Scotland, UK.
+
+`2017`
+Spies, J., Choudhury, S., Johnson, R., Wilcox, D. Weaving Together Preservation and Active Research, Edinburgh, Scotland, UK.
+
+`2017`
+Wilcox, D. The State of Fedora. South Central States Fedora User Group Meeting, Houston, TX, USA.
 
 <!-- ### Footer
 
