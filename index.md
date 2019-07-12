@@ -265,6 +265,48 @@ Spies, J., Choudhury, S., Johnson, R., Wilcox, D. Weaving Together Preservation 
 `2017`
 Wilcox, D. The State of Fedora. South Central States Fedora User Group Meeting, Houston, TX, USA.
 
+`2016`
+Wilcox, D. Introduction to Fedora 4 and Islandora CLAW. SMART Museums, Arcidosso, Tuscany, Italy.
+
+`2016`
+Wilcox, D., Cramer, T., Fleming, D., Ruggaber, R., Weinraub, E. Modern Digital Preservation Approaches from the Fedora Community. Coalition for Networked Information (CNI) Fall Meeting, Washington, DC, USA.
+
+`2016`
+Spies, J., Choudhury, S., Johnson, R., Wilcox, D. Weaving Together Preservation and Active Research. Coalition for Networked Information (CNI) Fall Meeting, Washington, DC, USA.
+
+`2016`
+Wilcox, D. Fedora 4 Update. Library and Information Technology Association (LITA) Forum, Fort Worth, TX, USA.
+
+`2016`
+Wilcox, D. Introduction to Fedora 4 (workshop). Digital Library Federation (DLF) Forum, Milwaukee, WI, USA.
+
+`2016`
+Wilcox, D. Fedora 4 Update. Digital Library Federation (DLF) Forum, Milwaukee, WI, USA.
+
+`2016`
+Wilcox, D. Introduction to Fedora 4 (workshop). iPRES, Bern, Switzerland.
+
+`2016`
+Wilcox, D. Introduction to Fedora 4 (tutorial). Therory and Practice of Digital Libraries (TPDL), Hannover, Germany.
+
+`2016`
+Wilcox, D., Woods, A. Introduction to Fedora 4 (workshop). Open Repositories, Dublin, Ireland.
+
+`2016`
+Wilcox, D. Fedora Community and Technology Update. Open Repositories, Dublin, Ireland.
+
+`2016`
+Wilcox, D., Cramer, T., Anez, M., Donohue, T., Simko, T., Carr, L. Repository Rodeo. Open Repositories, Dublin, Ireland.
+
+`2016`
+Wilcox, D. Publishing Assets as Linked Data with Fedora 4. Library Publishing Forum, Denton, TX, USA.
+
+`2016`
+Cossu, S., Wilcox, D. A Little Sweat Goes a Long Way, or: Building a Community-Driven Digital Asset Management System for Museums. Museums and the Web, Los Angeles, CA, USA.
+
+`2016`
+Wilcox, D., Woods, A. Fedora Project Update. DuraSpace Summit, Washington, DC, USA.
+
 <!-- ### Footer
 
 Last updated: July 2019 -->
