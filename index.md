@@ -307,6 +307,59 @@ Cossu, S., Wilcox, D. A Little Sweat Goes a Long Way, or: Building a Community-D
 `2016`
 Wilcox, D., Woods, A. Fedora Project Update. DuraSpace Summit, Washington, DC, USA.
 
+`2015`
+Wilcox, D., Birkland, A. Coughlin, D., Wallberg, B. Fedora 4: Community-Driven Development to Production. Coalition for Networked Information (CNI) Fall Meeting, Washington, DC, USA.
+
+`2015`
+Wilcox, D. Introduction to Fedora 4. Mid-Atlantic Fedora User Group Meeting, Philadelphia, PA, USA.
+
+`2015`
+Cossu, S., Krause, N., Wilcox, D. Libraries, Archives, and Museums: Points of Contact and Divergences in Cultural Heritage Information. Museum Computer Network (MCN) Annual Conference, Minneapolis, MN, USA.
+
+`2015`
+Wilcox, D. Fedora 4 Workshop. Digital Library Federation (DLF) Forum, Vancouver, BC, Canada.
+
+`2015`
+Wilcox, D. Introduction to Fedora 4. Digital Library Federation (DLF) Forum, Vancouver, BC, Canada.
+
+`2015`
+Wilcox, D. Fedora 4 Training Workshop. eResearch Australasia, Brisbane, Queensland, Australia.
+
+`2015`
+Wilcox, D. Fedora 4 for Research Data. eResearch Australasia, Brisbane, Queensland, Australia.
+
+`2015`
+Wilcox, D., Woods, A. Update on DuraSpace and Fedora 4. Washington DC Area Fedora User Group Meeting, College Park, MD, USA.
+
+`2015`
+Wilcox, D., Woods, A. Fedora 4 Training Workshop. Washington DC Area Fedora User Group Meeting, College Park, MD, USA.
+
+`2015`
+Wilcox, D. Hands on with Fedora 4 (workshop). Islandora Conference, Charlottetown, PE, Canada.
+
+`2015`
+Wilcox, D. Linked Data Modeling with Islandora and Fedora 4. Islandora Conference, Charlottetown, PE, Canada.
+
+`2015`
+Wilcox, D. Fedora 4 Training Workshop. Open Repositories, Indianapolis, IN, USA.
+
+`2015`
+Wilcox, D. Fedora 4 Update. Open Repositories, Indianapolis, IN, USA.
+
+`2015`
+Wilcox, D., Friscia, M., Ruest, N., Wead, A. Upgrading? Migrating? There’s a portmanteau for that! Open Repositories, Indianapolis, IN, USA.
+
+`2015`
+Wilcox, D. DuraSpace/Fedora 4 Update. Northeast Fedora User Group Meeting. New Haven, CT, USA.
+
+`2015`
+Wilcox, D., Woods, A. Fedora 4 Workshop. Northeast Fedora User Group Meeting. New Haven, CT, USA.
+
+`2015`
+Wilcox, D. Moving Ahead with Fedora 4. Coalition for Networked Information (CNI) Spring Meeting, Seattle, WA, USA.
+
+
+
 <!-- ### Footer
 
 Last updated: July 2019 -->
